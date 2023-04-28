@@ -26,3 +26,5 @@
 - 📫 How to reach me **khisby@gmail.com**
 
 - 📄 Know about my experiences in <a href="https://www.linkedin.com/in/khisby" target="_blank">Linkedin</a> or my website <a href="https://www.khisoft.id" target="_blank">khisoft.id</a>
+
+- <img align="center" src="https://github-readme-stats.vercel.app/api?username=khisby&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="khisby's Github Stats"/>
